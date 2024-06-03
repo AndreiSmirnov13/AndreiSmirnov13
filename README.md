@@ -71,4 +71,9 @@
     <hr style="border-top: 1px solid #ccc; width: 80%; margin: 20px auto;">
     <div align="center">
         <p>
-            <img src="https://github.com/AndreiSmirnov13
+       <img src="https://github.com/AndreiSmirnov13/Animated-Fluent-Emojis/blob/dependabot/npm_and_yarn/web/npm_and_yarn-84a3763735/Emojis/Symbols/Check%20Box%20with%20Check.png?raw=true" height="22">
+            I'm always in the process of learning, so maybe I've already mastered something else...
+        </p>
+    </div>
+</body>
+</html>
