@@ -16,4 +16,11 @@
 </a>
 <a href="https://www.instagram.com/your.reflections" target="_blank" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/>
+</a>
+</div>
+<div align="center" 
+    <p><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>Dear guest! I'm young and energetic QA specialist. I'm ready to work diligently and contribute to the quality of your product.</p>
+    <p>My discipline, resilience, and commitment to continuous development enable me to quickly adapt to new environments and efficiently complete assigned tasks.</p>
+    <p>I'm prepared to take on the challenges presented in your dynamic development environment and strive for excellence in every aspect of my work.</p>
+    <p>Let's create a product together that we can be proud of!</p> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Ninja.png?raw=true" height="32"/></h1>
 </div>
