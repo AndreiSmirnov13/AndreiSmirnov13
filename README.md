@@ -77,3 +77,5 @@
     </div>
 </body>
 </html>
+ <hr style="border-top: 1px solid #ccc; width: 80%; margin: 20px auto;">
+    <div align="center">
