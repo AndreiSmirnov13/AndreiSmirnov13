@@ -43,6 +43,7 @@
         <a href="https://app.clickup.com/" target="_blank" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=ClickUp&logoColor=000000" class="stack-img"/>
         </a>
+         <a href="https://miro.com/" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=FFFFFF" class="stack-img"/>
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF" class="stack-img"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" class="stack-img"/>
