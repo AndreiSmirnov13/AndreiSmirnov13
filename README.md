@@ -7,7 +7,7 @@
     <a href="https://t.me/your_reflections_API" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=Telegram&logoColor=FFFFFF"/>
     </a>
-    <a href="https://wa.me/89811445303" target="_blank" style="text-decoration: none;">
+    <a href="https://wa.me/+79811445303" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=FFFFFF"/>
     </a>
     <a href="https://vk.com/id51118177" target="_blank" style="text-decoration: none;">
@@ -24,7 +24,7 @@
     <p>Let's create a product together that we can be proud of! <img src="https://github.com/AndreiSmirnov13/Animated-Fluent-Emojis/blob/master/Emojis/People/Technologist.png?raw=true" height="32"/></p>
 </div>
 <hr style="border-top: 1px solid #ccc; width: 80%; margin: 20px auto;">
- <p> My technology stack: </p>
+ <p> My technology stack: <img src="https://github.com/AndreiSmirnov13/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20activities/Ninja%20Light%20Skin%20Tone.png?raw=true" height="32" </p>
  <div align="center">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=FFFFFF"/>
@@ -40,4 +40,7 @@
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=FFFFFF"/>  
  <hr style="border-top: 1px solid #ccc; width: 80%; margin: 20px auto;"
  <div align="center">
-<p> I'm always in the process of learning, so maybe I've already mastered something else... </p>
+<p>
+  <img src="https://github.com/AndreiSmirnov13/Animated-Fluent-Emojis/blob/dependabot/npm_and_yarn/web/npm_and_yarn-84a3763735/Emojis/Symbols/Check%20Box%20with%20Check.png?raw=true" height="22">
+  I'm always in the process of learning, so maybe I've already mastered something else...
+</p>
