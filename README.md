@@ -43,29 +43,32 @@
         <a href="https://app.clickup.com/" target="_blank" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=ClickUp&logoColor=000000" class="stack-img"/>
         </a>
-         <a href="https://miro.com/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=FFFFFF" class="stack-img"/>
-    <a href="https://www.notion.so/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF" class="stack-img"/>
-         <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" class="stack-img"/>
-      <a href="https://www.atlassian.com/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=FFFFFF" class="stack-img"/>
+        <a href="https://miro.com/" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=FFFFFF" class="stack-img"/>
+        </a>
+        <a href="https://www.notion.so/" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF" class="stack-img"/>
+        </a>
+        <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" class="stack-img"/>
+        </a>
+        <a href="https://www.atlassian.com/" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=FFFFFF" class="stack-img"/>
+        </a>
         <a href="https://www.linux.org/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=000000" class="stack-img"/>
-    <a href="https://json.com/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/JSon-000000?style=for-the-badge&logo=Json&logoColor=FFFFFF" class="stack-img"/>
-         <a href="https://www.git-scm.com/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=000000" class="stack-img"/>
-       <a href="https://www.atlassian.com/software/confluence" target="_blank" style="text-decoration: none;">      
-        <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=FFFFFF" class="stack-img"/>
+            <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=000000" class="stack-img"/>
+        </a>
+        <a href="https://json.com/" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/JSon-000000?style=for-the-badge&logo=Json&logoColor=FFFFFF" class="stack-img"/>
+        </a>
+        <a href="https://www.git-scm.com/" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=000000" class="stack-img"/>
+        </a>
+        <a href="https://www.atlassian.com/software/confluence" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=FFFFFF" class="stack-img"/>
+        </a>
     </div>
     <hr style="border-top: 1px solid #ccc; width: 80%; margin: 20px auto;">
     <div align="center">
         <p>
-            <img src="https://github.com/AndreiSmirnov13/Animated-Fluent-Emojis/blob/dependabot/npm_and_yarn/web/npm_and_yarn-84a3763735/Emojis/Symbols/Check%20Box%20with%20Check.png?raw=true" height="22">
-            I'm always in the process of learning, so maybe I've already mastered something else...
-        </p>
-    </div>
-</body>
-</html>
+            <img src="https://github.com/AndreiSmirnov13
