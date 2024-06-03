@@ -45,6 +45,7 @@
         </a>
          <a href="https://miro.com/" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=FFFFFF" class="stack-img"/>
+    <a href="https://www.notion.so/" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF" class="stack-img"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" class="stack-img"/>
         <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=FFFFFF" class="stack-img"/>
