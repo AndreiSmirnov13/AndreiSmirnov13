@@ -7,7 +7,7 @@
     <a href="https://t.me/your_reflections_API" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=Telegram&logoColor=FFFFFF"/>
     </a>
-    <a href="https://wa.me/+79811445303" target="_blank" style="text-decoration: none;">
+    <a href="https://wa.me/79811445303" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=FFFFFF"/>
     </a>
     <a href="https://vk.com/id51118177" target="_blank" style="text-decoration: none;">
