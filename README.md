@@ -71,13 +71,14 @@
     <hr style="border-top: 1px solid #ccc; width: 80%; margin: 20px auto;">
     <div align="center">
         <p>
-       <img src="https://github.com/AndreiSmirnov13/Animated-Fluent-Emojis/blob/dependabot/npm_and_yarn/web/npm_and_yarn-84a3763735/Emojis/Symbols/Check%20Box%20with%20Check.png?raw=true" height="22">
+            <img src="https://github.com/AndreiSmirnov13/Animated-Fluent-Emojis/blob/dependabot/npm_and_yarn/web/npm_and_yarn-84a3763735/Emojis/Symbols/Check%20Box%20with%20Check.png?raw=true" height="22">
             I'm always in the process of learning, so maybe I've already mastered something else...
         </p>
+        <img src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" width="300"/>
     </div>
+    <hr style="border-top: 1px solid #ccc; width: 80%; margin: 20px auto;">
+    <p>About my work experience:</p>
+    <p>1. Work in a startup project to develop a dating application integrated directly with <a href="https://t.me/" target="_blank">Telegram</a></p>
 </body>
 </html>
- <hr style="border-top: 1px solid #ccc; width: 80%; margin: 20px auto;">
-    <p> About my work experience:
-    <p>
-<p> 1. Work in a startup project to develop a dating application integrated directly with <a href="https://t.me/" target="_blank">Telegram <p>
+
