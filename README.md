@@ -11,6 +11,7 @@
 <a href="https://wa.me/89811445303" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=FFFFFF"/>
 </a>
-<a href="https://vk.com/id51118177" target_blank">
+<a href="https://vk.com/id51118177" target="_blank">
 <img src="https://img.shields.io/badge/VK-4682B4?style=for-the-badge&logo=VK&logoColor=FFFFFF"/>
+</a>
 </div>
