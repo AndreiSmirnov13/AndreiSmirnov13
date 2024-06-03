@@ -11,4 +11,6 @@
 <a href="https://wa.me/89811445303" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/Whats'Up-lightgreen?style=for-the-badge">
 </a>
+<a href="https://vk.com/id51118177" target_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/VK-%234682B4?style=for-the-badge&logo=Whats'Up&logoColor=lightgreen">
 </div>
