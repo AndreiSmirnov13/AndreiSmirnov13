@@ -31,7 +31,9 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FFFFFF"/>
 <a href="https://swagger.io/" target="_blank" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=FFFFFF"/>
+<a href="https://ubuntu.com/" target="_blank" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=000000"/>
+<a href="https://app.clickup.com/" target="_blank" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=ClickUp&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF"/>
