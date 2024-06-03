@@ -38,4 +38,6 @@
 <img src="https://img.shields.io/badge/JSon-000000?style=for-the-badge&logo=Json&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=FFFFFF"/>  
- </div>
+ <hr style="border-top: 1px solid #ccc; width: 80%; margin: 20px auto;"
+ <div align="center">
+<p> I'm always in the process of learning, so maybe I've already mastered something else... </p>
