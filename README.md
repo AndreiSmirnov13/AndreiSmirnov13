@@ -82,7 +82,7 @@
     </div>
     <hr style="border-top: 1px solid #ccc; width: 80%; margin: 20px auto;">
     <h2>About my work experience:</h2>
-    <h3>Work in a startup project to develop a dating application integrated directly with <a href="https://t.me/" target="_blank">Telegram</a></h3>
+    <h3>Within the project, I worked on testing a dating app integrated with <a href="https://t.me/" target="_blank">telegram</a></h3>
     <h4>Full stack on this project:</h4>
     <h5>FRONT:</p>
         <a href="https://react.dev/" target="_blank" style="text-decoration: none;">
@@ -104,6 +104,10 @@
         <a href="https://www.postgresql.org/" target="_blank" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF" class="stack-img"/>
         </a>
+    <h6> The app had a monolithic architecture and a REST style communication method
+         Virtual servers are located on VDS Timeweb. 
+Cloud photo storage on S3 Google cloud.
+All application logic was contained within the monolith, but one container was submitted for moderation and isolated from the main application
     </div>
 </body>
 </html>
