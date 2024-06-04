@@ -78,10 +78,19 @@
     </div>
     <hr style="border-top: 1px solid #ccc; width: 80%; margin: 20px auto;">
     <p>About my work experience:</p>
-    <p>1. Work in a startup project to develop a dating application integrated directly with <a href="https://t.me/" target="_blank">Telegram</a></p>
-    Front - React JS, TS
-Back - Python Fast API
-Base - Postgress
+    <p>1. Work in a startup project to develop a dating application integrated directly with <a href="https://t.me/" target="_blank">Telegram</a> </p>
+    <p>Full stack on this project:</p>
+    FRONT: </a>
+    <a href="https://react.dev/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF" class="stack-img"/>
+    <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF" class="stack-img"/>
+        </a> 
+</p> BACK: <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF" class="stack-img"/> <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=FFFFFF" class="stack-img"/>
+        </a> </p>
+</p> DB: - Postgress 
     </p>
 </body>
 </html>
