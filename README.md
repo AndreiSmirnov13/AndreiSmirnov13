@@ -27,10 +27,9 @@
         </a>
     </div>
     <div align="center" style="margin-top: 20px;">
-        <p><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Dear guest! I'm a young and energetic QA specialist. I'm ready to work diligently and contribute to the quality of your product.</p>
-        <p>My discipline, resilience, and commitment to continuous development enable me to quickly adapt to new environments and efficiently complete assigned tasks.</p>
-        <p>I'm prepared to take on the challenges presented in your dynamic development environment and strive for excellence in every aspect of my work.</p>
-        <p>Let's create a product together that we can be proud of! <img src="https://github.com/AndreiSmirnov13/Animated-Fluent-Emojis/blob/master/Emojis/People/Technologist.png?raw=true" height="32"/></p>
+        <p><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Greetings! I'm an enthusiastic and driven QA specialist, eager to enhance the quality of your product.</p>
+        <p>With a strong sense of discipline, resilience, and a commitment to continuous improvement, I thrive in dynamic environments, swiftly adapting to new challenges and completing tasks with efficiency.</p>
+        <p>I am well-equipped to tackle the demands of your dynamic development environment, striving for excellence in all aspects of my work. Let's collaborate to create a product we can be truly proud of! <img src="https://github.com/AndreiSmirnov13/Animated-Fluent-Emojis/blob/master/Emojis/People/Technologist.png?raw=true" height="32"/></p>
     </div>
     <hr style="border-top: 1px solid #ccc; width: 80%; margin: 20px auto;">
     <p> My technology stack: <img src="https://github.com/AndreiSmirnov13/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20activities/Ninja%20Light%20Skin%20Tone.png?raw=true" height="32"/></p>
@@ -106,11 +105,10 @@
         <a href="https://www.postgresql.org/" target="_blank" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF" class="stack-img"/>
         </a>
-    <h6> <p>The app had a monolithic architecture <img src="https://raw.githubusercontent.com/AndreiSmirnov13/Animated-Fluent-Emojis/master/Emojis/Objects/Moai.png" width="22"/> and a REST style communication method. <p>
-        <p> Virtual servers are located on VDS Timeweb. <p>
-<p> Cloud photo storage on S3 Google cloud <img src="https://raw.githubusercontent.com/AndreiSmirnov13/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="22"/> <p>
-All application logic was contained within the monolith, but one container was submitted for moderation and isolated from the main application, and 
-also, a separate microservice was developed for the img.proxy feature. It retrieves the requested image from the original photo stored in S3, returning it in the required format, size, with watermarks, etc., as needed. <h6>
+    <h6> <p>The app followed a monolithic architecture <img src="https://raw.githubusercontent.com/AndreiSmirnov13/Animated-Fluent-Emojis/master/Emojis/Objects/Moai.png" width="22"/>  with RESTful communication <p>
+        <p> The virtual servers are hosted on VDS Timeweb. <p>
+<p> Photos are stored on Google Cloud's S3 storage <img src="https://raw.githubusercontent.com/AndreiSmirnov13/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="22"/> <p>
+The application primarily operated as a monolith, housing all its core functionality. However, a single container was segregated for moderation purposes, ensuring its isolation from the main application. Additionally, a dedicated microservice, called img.proxy, was engineered. This microservice efficiently retrieves images upon request from the original photos stored in S3, tailoring them to specific requirements such as format, size, and watermarking. <h6>
     </div>
 </body>
 </html>
