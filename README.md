@@ -90,9 +90,9 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF" class="stack-img"/> <a href="https://fastapi.tiangolo.com/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=FFFFFF" class="stack-img"/>
         </a> </p>
-</p> DB: href="https://www.postgresql.org/" target="_blank" style="text-decoration: none;">
+DB: <a href="https://www.postgresql.org/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF" class="stack-img"/>
-        </a> </p> 
+        </a>  
     </p>
 </body>
 </html>
