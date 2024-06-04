@@ -105,10 +105,10 @@
         <a href="https://www.postgresql.org/" target="_blank" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF" class="stack-img"/>
         </a>
-    <h6> <p>The app followed a monolithic architecture <img src="https://raw.githubusercontent.com/AndreiSmirnov13/Animated-Fluent-Emojis/master/Emojis/Objects/Moai.png" width="22"/>  with RESTful communication <p>
-        <p> The virtual servers are hosted on VDS Timeweb. <p>
-<p> Photos are stored on Google Cloud's S3 storage <img src="https://raw.githubusercontent.com/AndreiSmirnov13/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="22"/> <p>
-The application primarily operated as a monolith, housing all its core functionality. However, a single container was segregated for moderation purposes, ensuring its isolation from the main application. Additionally, a dedicated microservice, called img.proxy, was engineered. This microservice efficiently retrieves images upon request from the original photos stored in S3, tailoring them to specific requirements such as format, size, and watermarking. <h6>
+    <h6> <p>The app followed a monolithic architecture <img src="https://raw.githubusercontent.com/AndreiSmirnov13/Animated-Fluent-Emojis/master/Emojis/Objects/Moai.png" width="22"/>  with RESTful communication.<p>
+<p>The virtual servers are hosted on VDS Timeweb.<p>
+<p>Photos are stored on Google Cloud's S3 storage <img src="https://raw.githubusercontent.com/AndreiSmirnov13/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="22"/><p>
+The application primarily operated as a monolith, housing all its core functionality. However, a single container was segregated for moderation purposes, ensuring its isolation from the main application. Additionally, a dedicated microservice, called img.proxy, was engineered. This microservice efficiently retrieves images upon request from the original photos stored in S3, tailoring them to specific requirements such as format, size, and watermarking. <img src="https://raw.githubusercontent.com/AndreiSmirnov13/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20in%20Lotus%20Position%20Light%20Skin%20Tone.png" width="22"/> <h6>
     </div>
 </body>
 </html>
