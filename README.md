@@ -107,7 +107,8 @@
     <h6> The app had a monolithic architecture and a REST style communication method
          Virtual servers are located on VDS Timeweb. 
 Cloud photo storage on S3 Google cloud.
-All application logic was contained within the monolith, but one container was submitted for moderation and isolated from the main application
+All application logic was contained within the monolith, but one container was submitted for moderation and isolated from the main application, and 
+also, a separate microservice was developed for the img.proxy feature. It retrieves the requested image from the original photo stored in S3, returning it in the required format, size, with watermarks, etc., as needed.
     </div>
 </body>
 </html>
