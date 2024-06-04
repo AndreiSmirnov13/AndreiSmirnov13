@@ -9,7 +9,7 @@
     </div>
     <h1 align="center">
         Hi there, I'm <a href="https://spb.hh.ru/resume/16ea14f5ff0cce0b210039ed1f574530673261" target="_blank">Andrei</a>
-        <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+        <img src="https://raw.githubusercontent.com/AndreiSmirnov13/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" height="32"/>
     </h1>
     <h3 align="center">QA engineer from Russia</h3>
     <div align="center">
@@ -27,7 +27,7 @@
         </a>
     </div>
     <div align="center" style="margin-top: 20px;">
-        <p><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Greetings! I'm an enthusiastic and driven QA specialist, eager to enhance the quality of your product.</p>
+        <p> Greetings! I'm an enthusiastic and driven QA specialist, eager to enhance the quality of your product.</p>
         <p>With a strong sense of discipline, resilience, and a commitment to continuous improvement, I thrive in dynamic environments, swiftly adapting to new challenges and completing tasks with efficiency.</p>
         <p>I am well-equipped to tackle the demands of your dynamic development environment, striving for excellence in all aspects of my work. Let's collaborate to create a product we can be truly proud of! <img src="https://github.com/AndreiSmirnov13/Animated-Fluent-Emojis/blob/master/Emojis/People/Technologist.png?raw=true" height="32"/></p>
     </div>
