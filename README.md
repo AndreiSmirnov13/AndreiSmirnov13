@@ -104,11 +104,11 @@
         <a href="https://www.postgresql.org/" target="_blank" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF" class="stack-img"/>
         </a>
-    <h6> The app had a monolithic architecture and a REST style communication method
-         Virtual servers are located on VDS Timeweb. 
-Cloud photo storage on S3 Google cloud.
+    <h6> <p>The app had a monolithic architecture <img src="https://raw.githubusercontent.com/AndreiSmirnov13/Animated-Fluent-Emojis/master/Emojis/Objects/Moai.png" width="22"/> and a REST style communication method. <p>
+        <p> Virtual servers are located on VDS Timeweb. <p>
+<p> Cloud photo storage on S3 Google cloud <img src="https://raw.githubusercontent.com/AndreiSmirnov13/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="22"/> <p>
 All application logic was contained within the monolith, but one container was submitted for moderation and isolated from the main application, and 
-also, a separate microservice was developed for the img.proxy feature. It retrieves the requested image from the original photo stored in S3, returning it in the required format, size, with watermarks, etc., as needed.
+also, a separate microservice was developed for the img.proxy feature. It retrieves the requested image from the original photo stored in S3, returning it in the required format, size, with watermarks, etc., as needed. <h6>
     </div>
 </body>
 </html>
