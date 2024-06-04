@@ -32,7 +32,7 @@
         <p>I am well-equipped to tackle the demands of your dynamic development environment, striving for excellence in all aspects of my work. Let's collaborate to create a product we can be truly proud of! <img src="https://github.com/AndreiSmirnov13/Animated-Fluent-Emojis/blob/master/Emojis/People/Technologist.png?raw=true" height="32"/></p>
     </div>
     <hr style="border-top: 1px solid #ccc; width: 80%; margin: 20px auto;">
-    <p> My technology stack: <img src="https://github.com/AndreiSmirnov13/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20activities/Ninja%20Light%20Skin%20Tone.png?raw=true" height="32"/></p>
+    <p> <img src="https://raw.githubusercontent.com/AndreiSmirnov13/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" height="22"/> My technology stack: </p>
     <div align="center">
         <a href="https://www.postman.com/" target="_blank" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FFFFFF" class="stack-img"/>
