@@ -79,6 +79,10 @@
     <hr style="border-top: 1px solid #ccc; width: 80%; margin: 20px auto;">
     <p>About my work experience:</p>
     <p>1. Work in a startup project to develop a dating application integrated directly with <a href="https://t.me/" target="_blank">Telegram</a></p>
+    Front - React JS, TS
+Back - Python Fast API
+Base - Postgress
+    </p>
 </body>
 </html>
 
