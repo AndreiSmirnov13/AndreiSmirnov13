@@ -27,7 +27,7 @@
         </a>
     </div>
     <div align="center" style="margin-top: 20px;">
-        <p> Greetings! I'm an enthusiastic and driven QA specialist, eager to enhance the quality of your product.</p>
+        <p> And I'm an enthusiastic and driven QA specialist, eager to enhance the quality of your product.</p>
         <p>With a strong sense of discipline, resilience, and a commitment to continuous improvement, I thrive in dynamic environments, swiftly adapting to new challenges and completing tasks with efficiency.</p>
         <p>I am well-equipped to tackle the demands of your dynamic development environment, striving for excellence in all aspects of my work. Let's collaborate to create a product we can be truly proud of! <img src="https://github.com/AndreiSmirnov13/Animated-Fluent-Emojis/blob/master/Emojis/People/Technologist.png?raw=true" height="32"/></p>
     </div>
