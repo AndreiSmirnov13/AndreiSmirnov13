@@ -80,7 +80,7 @@
         <img src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" width="300"/>
     </div>
     <hr style="border-top: 1px solid #ccc; width: 80%; margin: 20px auto;">
-    <h2>About my work experience:</h2>
+    <h2>About my work experience:<img src="https://raw.githubusercontent.com/AndreiSmirnov13/Animated-Fluent-Emojis/master/Emojis/People/Superhero.png" height="32"/></h2>
     <h3>Within the project, I worked on testing a dating app integrated with <a href="https://t.me/your_reflections_API" target="_blank" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=Telegram&logoColor=FFFFFF" class="badge"/>
         </a>
